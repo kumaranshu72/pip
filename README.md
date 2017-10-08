@@ -17,3 +17,15 @@ The first factor, Proximity factor, not only calculates the absolute difference 
 The Impact factor represents how strongly an item is preferred or disliked by users.</br>
 The last factor is Popularity. It denotes how common two user’s ratings have.
 </p>
+
+<h1> Acknowledgment</h1>
+<p>
+   I would like to thank my mentor Mr. Vijay Verma for his support and guidance.
+   I would like to thank my project partner/ collaborator to help me during this project.
+</p>
+
+<h1>Refrences</h1>
+<p>
+   Research Paper : http://www.sciencedirect.com/science/article/pii/S0950705113003560
+<p>
+
